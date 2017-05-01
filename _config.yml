@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bhar's Bloggy McBlogface Blog 
+author: Bhargava Venkatesh
 email: bhar92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
        Hello! My name is Bhargava. My interests are technology, programming, 
